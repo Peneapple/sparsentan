@@ -1,0 +1,9 @@
+receptor = AGTR2.pdbqt
+ligand = sparsentan.pdbqt
+center_x = -13.692
+center_y = 23.115
+center_z = 2.501
+size_x = 74.0
+size_y = 100.0
+size_z = 96.0
+out = sparsentan_out.pdbqt
